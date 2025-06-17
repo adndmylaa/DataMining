@@ -1,6 +1,6 @@
-flask
-numpy
+Flask==2.3.3
 pandas
+numpy
 tensorflow
 scikit-learn
 openpyxl
